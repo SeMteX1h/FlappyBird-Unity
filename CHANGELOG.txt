@@ -1,0 +1,23 @@
+Flappy Bird - Changelog
+
+Version 0.1
+------------
+- Initial game release
+- Bird movement implemented
+- Pipe spawning system
+- Score system
+- Game Over screen
+
+Version 0.2
+------------
+- Improved UI scaling
+- Fixed blurry Game Over text
+- Adjusted bird gravity
+- Updated Unity version
+
+Version 0.3
+------------
+- Fixed score increasing after Game Over
+- Improved collision handling
+- Minor code cleanup(Create Scripts Folder)
+- Add new Background
