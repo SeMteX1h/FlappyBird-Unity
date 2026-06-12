@@ -23,13 +23,13 @@ Try to survive as long as possible and achieve the highest score.
 ### Gameplay
 
 <p align="center">
-  <img src="Docs/gameplay.png" width="700">
+  <img src="Docs/Screenshots/gameplay.png" width="700">
 </p>
 
 ### Game Over Screen
 
 <p align="center">
-  <img src="Docs/gameover.png" width="700">
+  <img src="Docs/Screenshots/gameover.png" width="700">
 </p>
 
 ---
